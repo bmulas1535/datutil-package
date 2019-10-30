@@ -1,0 +1,9 @@
+README.md
+setup.py
+core/__init__.py
+core/utility.py
+datutil.egg-info/PKG-INFO
+datutil.egg-info/SOURCES.txt
+datutil.egg-info/dependency_links.txt
+datutil.egg-info/requires.txt
+datutil.egg-info/top_level.txt
