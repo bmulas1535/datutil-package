@@ -1,5 +1,5 @@
 # DATUTIL PACKAGE FOR PYTHON
-![logo](./assets/datutil_logo.svg)
+![logo](./assets/datutil_logo.png)
 ----------
 ### Main
 This package contains helper functions for common data science processes.
