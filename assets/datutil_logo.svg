@@ -14,7 +14,10 @@
    height="312.60135mm"
    width="466.32544mm"
    sodipodi:docname="datutil_logo.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/asher/docs/python/projects/datutil/assets/datutil_logo.png"
+   inkscape:export-xdpi="10"
+   inkscape:export-ydpi="10">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -30,12 +33,12 @@
      showgrid="false"
      showborder="false"
      inkscape:zoom="0.33674242"
-     inkscape:cx="779.22091"
+     inkscape:cx="736.16129"
      inkscape:cy="727.2631"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg8" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs2">
     <linearGradient
@@ -68,7 +71,9 @@
        x="-409.38754"
        height="219.91672"
        width="287.17978"
-       id="rect4540" />
+       id="rect4540"
+       inkscape:export-xdpi="10"
+       inkscape:export-ydpi="10" />
     <rect
        transform="matrix(1,0,-0.30185942,0.95335245,0,0)"
        ry="0"
@@ -78,7 +83,9 @@
        height="85.605728"
        width="287.14209"
        id="rect4544"
-       style="fill:#d38d5f;fill-opacity:1;stroke-width:4.83914566" />
+       style="fill:#d38d5f;fill-opacity:1;stroke-width:4.83914566"
+       inkscape:export-xdpi="10"
+       inkscape:export-ydpi="10" />
     <rect
        transform="matrix(0.74746443,-0.66430183,0,1,0,0)"
        y="-59.16679"
@@ -86,22 +93,30 @@
        height="219.22517"
        width="140.56267"
        id="rect4546"
-       style="fill:#edd187;fill-opacity:1;stroke-width:3.87032914" />
+       style="fill:#edd187;fill-opacity:1;stroke-width:3.87032914"
+       inkscape:export-xdpi="10"
+       inkscape:export-ydpi="10" />
     <path
        id="path4548"
        d="m -17.14217,-43.931986 -289.26225,1.145029 -102.98342,91.538633 287.17975,0.69117 z"
        style="fill:#c69e65;fill-opacity:1;stroke:none;stroke-width:1.13079965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="10"
+       inkscape:export-ydpi="10" />
     <path
        id="path6016"
        d="m -306.40442,-42.786957 0.57779,91.807133 -103.56128,-0.2685 z"
        style="fill:#c69e65;fill-opacity:1;stroke:none;stroke-width:4.60293436px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="10"
+       inkscape:export-ydpi="10" />
     <path
        id="path6018"
        d="M -306.40442,-42.786957 -17.14217,-43.931986 -122.2078,49.444068 -305.82663,49.019657 Z"
        style="fill:#e1b986;fill-opacity:1;stroke:none;stroke-width:4.60293436px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="10"
+       inkscape:export-ydpi="10" />
     <rect
        transform="matrix(0.74851078,-0.66312262,0.5877428,0.80904784,0,0)"
        ry="0"
@@ -115,17 +130,19 @@
     <text
        transform="matrix(0.98250264,-0.08484276,0.08247681,1.0106868,0,0)"
        id="text3715"
-       y="138.77733"
-       x="-413.09232"
-       style="font-style:normal;font-weight:normal;font-size:54.98668289px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.63636361;stroke:none;stroke-width:1.37466705"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.98668289px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.63636361;stroke-width:1.37466705"
-         y="138.77733"
-         x="-413.09232"
+       y="148.94621"
+       x="-412.34653"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.98746872px;line-height:1.25;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.63636361;stroke:none;stroke-width:1.37466705"
+       xml:space="preserve"
+       inkscape:export-xdpi="10"
+       inkscape:export-ydpi="10"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.98746872px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.63636361;stroke-width:1.37466705"
+         y="148.94621"
+         x="-412.34653"
          id="tspan3713">dat:</tspan><tspan
          id="tspan3717"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.98668289px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.63636361;stroke-width:1.37466705"
-         y="208.51103"
-         x="-413.09232">  &lt;util&gt;</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.98746872px;font-family:'Courier 10 Pitch';-inkscape-font-specification:'Courier 10 Pitch, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:0.63636361;stroke-width:1.37466705"
+         y="218.67992"
+         x="-412.34653">  &lt;util&gt;</tspan></text>
   </g>
 </svg>
