@@ -18,4 +18,15 @@ To install:
 
 ### How to use
 
-The main import is called [core]
+To import the main package, start with the command `import core`
+
+This will import the main package library and all modules.
+
+### Modules
+
+Currently, the modules include...
+
+* uility
+ - The main utility module that contains most of the pandas functions
+classes. Designed to be used primarily during the cleaning and planning
+phase of Data Exploration.
