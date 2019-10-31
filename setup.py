@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
     setuptools.setup(
         name="datutil",
-        version = "1.0.1",
+        version = "1.0.3",
         author = "bmulas1535",
         description = "A collection of classes and functions for common data science processes.",
         long_description = LONG_DESCRIPTION,
